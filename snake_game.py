@@ -3,7 +3,7 @@ import numpy as np
 from time import sleep
 import random
 def L():
-    return [[i,j]for i in range(10) for j in range(6)]
+    return [[i,j]for i in range(100) for j in range(60)]
 score=-1
 s=1
 p=1
